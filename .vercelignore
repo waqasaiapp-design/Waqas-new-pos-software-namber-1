@@ -1,0 +1,13 @@
+.git
+node_modules
+dist
+server.cjs
+tests
+.github
+.aistudio
+data/backups
+data/cctv_streams
+data/cctv_recordings
+data/.cctv_master_key
+*.log
+.DS_Store
